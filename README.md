@@ -208,48 +208,45 @@ Generate Clinical PDF Report
 ---
 
 # 📷 Screenshots
-
 ## 📷 Application Screenshots
 
 <table>
 <tr>
 <td align="center">
 <b>Home</b><br>
-<img src="home.png" width="450">
+<img src="screenshots/home.png" width="450">
 </td>
 
 <td align="center">
 <b>Disease Prediction</b><br>
-<img src="page1.png" width="450">
+<img src="screenshots/page1.png" width="450">
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <b>Analytics</b><br>
-<img src="page2.png" width="450">
+<img src="screenshots/page2.png" width="450">
 </td>
 
 <td align="center">
 <b>Prediction History</b><br>
-<img src="page3.png" width="450">
+<img src="screenshots/page3.png" width="450">
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <b>Report Generator</b><br>
-<img src="page4.png" width="450">
+<img src="screenshots/page4.png" width="450">
 </td>
 
 <td align="center">
 <b>About</b><br>
-<img src="about.png" width="450">
+<img src="screenshots/about.png" width="450">
 </td>
 </tr>
 </table>
-```
-
 ---
 
 # 🎯 Key Highlights
